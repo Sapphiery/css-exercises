@@ -1,4 +1,9 @@
-.odd{
+.odd {
     background-color: #ffc0cb;
     font-family: "Verdana", "Deja Vu Sans", sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size:  36px;
 }
